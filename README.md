@@ -1,23 +1,25 @@
 # Classic-To-Do-List
 A simple To-Do List where users can add tasks, mark them as completed, delete them, and see the total number of remaining tasks.
 
--Add new tasks
+  -Add new tasks
 
--Live task counter
+  -Live task counter
 
--Mark tasks as completed
+  -Mark tasks as completed
 
--Delete tasks
+  -Delete tasks
 
--Clean and simple UI
+  -Clean and simple UI
 
 Technologies Used
 
-HTML5
+  HTML5
 
-CSS3
+  CSS3
 
-JavaScript
+  JavaScript
+
+
 
 
 
