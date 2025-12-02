@@ -20,7 +20,7 @@ Technologies Used
   JavaScript
 
 ![App Screenshot](ToDoList/image1.png)
-
+![App Screenshot](ToDoList/image2.png)
 
 
 
